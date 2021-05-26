@@ -1,66 +1,84 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Walt Disney Resort</title>
+<html>
+    <head>
+        <title>Walt Disney Resort</title>
 </head>
 <body>
     <p>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Walt_Disney_World_Logo_2018.svg/800px-Walt_Disney_World_Logo_2018.svg.png"/></p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Walt_Disney_World_Logo_2018.svg/800px-Walt_Disney_World_Logo_2018.svg.png"/>
+    </p>
          
         <hr/>
 
     <h1>Boulder Ridge Villas at Disney's Wilderness Lodge</h1>
+
     <p><img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/900/360/75/dam/disney-world/resorts/boulder-ridge-villas-at-wilderness-lodge/boulder-ridge-landscape-900x360.jpg?1621019850741"></p>
+    
     <p>De forma semelhante aos hotéis de beira de estrada do oeste norte-americano da década de 1860, o Boulder Ridge Villas oferece todo o conforto da sua casa em meio à beleza rústica do Disney’s Wilderness Lodge. Saboreie a tradicional culinária do Noroeste do Pacífico, explore trilhas em prados verdejantes e desfrute da encantadora Copper Creek Springs Pool. Um tranquilo passeio de barco leva do Magic Kingdom Park a esse Hotel Resort, que celebra a filosofia dos artesãos tradicionais e a vida ao ar livre.</p>
 
    <h2>O que torna este hotel Resort único</h2>
-   <p><img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/170/96/75/dam/wdpro-assets/places-to-stay/villas-at-walt-disneys-wilderness-lodge/villas-at-wilderness-lodge-03.jpg?1621019850739"></p>
+
+    <p><img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/170/96/75/dam/wdpro-assets/places-to-stay/villas-at-walt-disneys-wilderness-lodge/villas-at-wilderness-lodge-03.jpg?1621019850739">
+    </p>
+
    <h3>O conforto de uma casa e espaço a mais</h3>
-    <p>Hospede-se em uma Valla Disney categoria Deluxe com as comodidades de casa,como cozinha, lavadora, secadora e quartor separados. <a href="#">Exibir  mais.</a></p>   
     
-    <h3>Piscina com tobogã  aquático</h3>
-    <p><img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/170/96/75/dam/wdpro-assets/places-to-stay/villas-at-walt-disneys-wilderness-lodge/villas-at-wilderness-lodge-01.jpg?1621019850739"></p>
+   <p>Hospede-se em uma Valla Disney categoria Deluxe com as comodidades de casa,como cozinha, lavadora, secadora e quartor separados. <a href="#">Exibir  mais.</a></p>   
+    
+   <h3>Piscina com tobogã  aquático</h3>
+   
+   <p><img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/170/96/75/dam/wdpro-assets/places-to-stay/villas-at-walt-disneys-wilderness-lodge/villas-at-wilderness-lodge-01.jpg?1621019850739">
+    </p>
+    
     <p>Descubra uma piscina aquecida fantástica rodeada por pinheiros e rochas. <a href="#">Exibir mais.</a></p>
 
     <h2>Mapa</h2>
     <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3006.6958801840256!2d-81.57521944978218!3d28.409146582420625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s901%20Timberline%20Drive%20Lake%20Buena%20Vista%2C%20Fl%C3%B3rida%208426-32830!5e1!3m2!1spt-BR!2sbr!4v1621981653957!5m2!1spt-BR!2sbr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    
     <h3>Endereço do Risort</h3>
+    
     <p>901 Timberline Drive <br>
     Lake Buena Vista, Flórida 8426-32830 <br>
     (407) 824-3200</p>
     
     <h4>Categoria do Resort</h4>
     <p>Resort Villa Deluxe</p>
+    
     <h4>Área do Resort</h4>
     <p>Área de Resort do Magic Kingdom</p>
 
     <hr>
+    
     <h1>Tarifas de quartos</h1>
 
     <h2>Studio Categoria Deluxe</h2>
+    
     <p><img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/640/360/75/dam/wdpro-assets/gallery/resorts/villas-at-wilderness-lodge/rooms/non-accessible/xa/room-xa-g00.jpg?1564010609976"></p>
 
         <p>Vista da piscina, do bosque, do pátio ou do Disney's Wilderness Lodge Resort Hotel</p>
-    <p>Acomoda até 5 adultos</p>
-    <ul>
+    
+        <p>Acomoda até 5 adultos</p>
+    
+        <ul>
         <li>1 Cama queen</li>
         <li>1 sofá-cama de casal</li>
         <li>1 cama de solteiro</li>
-    </ul>
-    <p>Acomodações espaçosas que incluem uma cozinha compacta com frigobar e forno micro-ondas, varanda ou sacada</p>
+        </ul>
+    
+        <p>Acomodações espaçosas que incluem uma cozinha compacta com frigobar e forno micro-ondas, varanda ou sacada</p>
 
     <h3>Preço Diária</h3>
+    
     <p>A partir de $432.00 USD$432,00 USD <br>
         Por noite, impostos da Flórida aplicáveis incluídos</p>
 
-    <h2>Villa de 1 quarto</h2>
-        <img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/640/360/75/dam/wdpro-assets/gallery/resorts/villas-at-wilderness-lodge/rooms/non-accessible/xb/room-xb-g00.jpg?1564010609979">
+    
+        <h2>Villa de 1 quarto</h2>
+        <p><img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/640/360/75/dam/wdpro-assets/gallery/resorts/villas-at-wilderness-lodge/rooms/non-accessible/xb/room-xb-g00.jpg?1564010609979"></p>
 
         <p>Acomoda até 8 adultos</p>
+        
         <p>Vista da piscina, do bosque, do pátio ou do Disney's Wilderness Lodge Resort Hotel</p>
+        
         <ul>
             <li>1 cama king</li>
             <li>2 camas queen</li>
@@ -70,105 +88,144 @@
     <p>Ótimas para famílias grandes, as acomodações em Villas incluem uma cozinha completa, 2 banheiros completos, lavadora, secadora</p>
 
     <h3>Preço Diária</h3>
+    
     <p>A partir de $739.13 USD $739,13 USD <br>
         Por noite, impostos da Flórida aplicáveis incluídos</p>
 <hr>
     
     <h1>Restaurantes</h1>
-    <img src="https://www.mousesteps.com/images/stories/dining/2018%20Dining/Artist%20Point%20Storybook%20Dining/DSC_0812.jpg">
+    
+    <p><img src="https://www.mousesteps.com/images/stories/dining/2018%20Dining/Artist%20Point%20Storybook%20Dining/DSC_0812.jpg"></p>
 
     <p>Encontre Personagens Disney do clássico filme Disney Snow White and the Seven Dwarfs enquanto saboreia um delicioso e sofisticado jantar que a família toda vai adorar!</p>
 
-    <strong><h1>Eu vou, eu vou, jantar agora eu vou!</h1></strong>
+    <strong><h2>Eu vou, eu vou, jantar agora eu vou!</h2></strong>
 
     <p>Você pode encontrar Snow White, Dopey e Grumpy todas as noites para uma refeição em um ambiente rústico, inspirado no filme da Disney Snow White and the Seven Dwarfs!</p>
+    
     <p>Entre na Floresta Encantada ao som de uma música encantadora, que ajuda a dar vida à fantasia de um conto de história.</p>
+    
     <p>E se você ousar, encontre The Queen, e tire até mesmo uma foto com ela!</p>
+    
     <p>Os Personagens e eventos de entretenimento estão sujeitos a alterações sem comunicado prévio.</p>
 
     <h2>Ensopado de carne bovina Cottage</h2>
+    
     <p>Carne bovina tenra, legumes em conserva, spaetzle, cogumelos, queijo de leite de vaca envelhecido</p>
 
     <strong><h3>Valor Médio</h3></strong>
+    
     <p>Pratos principais The Core of the Story (opção de um/Adulto $60.00 USD)</p>
 
-    <img src="https://disneydailydime.com/wp-content/uploads/2019/07/Territory-Lounge-Review-Bar-Area-and-Seating-from-the-front-right.jpg">
+    <p><img src="https://disneydailydime.com/wp-content/uploads/2019/07/Territory-Lounge-Review-Bar-Area-and-Seating-from-the-front-right.jpg"></p>
+    
     <p>Aconchegue-se nesse bar rústico em estilo cabana com ambientação confortável e calorosa! Você pode pedir lanches, pratos pequenos, doces e coquetéis.</p>
-<h2>Coquetéis especiais</h2>
-<h3>Smoked Turkey</h3>
-<p>Bourbon Wild Turkey 101, Bourbon Red Stag Black Cherry, granadina, limonada Minute Maid® Premium com um toque de fumaça líquida, ornamentado com cerejas marasquino gourmet Luxardo</p>
-<h3>Preço</h3>
-<p>$15.00 USD</p>
 
-<img src="https://www.viajandoparaorlando.com/wp-content/uploads/2018/04/wdw_whisperingcanyon_photo_01.jpg">
+    <h2>Coquetéis especiais</h2>
+
+    <h3>Smoked Turkey</h3>
+
+    <p>Bourbon Wild Turkey 101, Bourbon Red Stag Black Cherry, granadina, limonada Minute Maid® Premium com um toque de fumaça líquida, ornamentado com cerejas marasquino gourmet Luxardo</p>
+
+    <h3>Preço</h3>
+
+    <p>$15.00 USD</p>
+
+<p><img src="https://www.viajandoparaorlando.com/wp-content/uploads/2018/04/wdw_whisperingcanyon_photo_01.jpg"></p>
+
 <p>Junte a família toda para saborear pratos fartos do Velho Oeste com skillets em estilo bufê livre e brincadeiras!</p>
 
 <h2>The Heritage</h2>
+
 <p>Pão biscuit de leitelho e queijo cheddar da casa e molho de linguiça com waffles do Mickey, ovos mexidos, batatas rústicas, bacon defumado, linguiça suína </p>
 
 <h3>Preço</h3>
+
 <p>$22.00 USD (preço por pessoa)</p>
 
-<img src="https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2017/02/gpawlr479578683.jpg">
+<p><img src="https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2017/02/gpawlr479578683.jpg"></p>
+
 <p>Faça seu pedido em um restaurante à beira da piscina, com pratos dignos de exploradores, destilados para aventureiros e com a vista incrível do Bay Lake.</p>
 
 <h2>Salada de cogumelo portobello grelhado</h2>
+
 <p>Zucchini, Roasted Red Peppers, Squash, Onions, Multigrain Salad, Goat Cheese Dressing and Balsamic Reduction</p>
+
 <h3>Preço</h3>
+
 <p>$10.00 USD</p>
 
 <hr>
 
 <h1>Recreação</h1>
 
-<h2>Piscinas no Disney's Wilderness Lodge</h2>
-<img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/places-to-stay/wilderness-lodge/recreation/pools-wilderness-lodge-03.jpg?1583970509973">
+<h1>Piscinas no Disney's Wilderness Lodge</h1>
+
+<p><img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/places-to-stay/wilderness-lodge/recreation/pools-wilderness-lodge-03.jpg?1583970509973"></p>
 
 <h2>Copper Creek Springs Pool</h2>
+
 <p>Siga o borbulhante riacho Cooper Creek para chegar a uma encantadora piscina aquecida cercada pela natureza. Aqui, você pode deslizar pelo emocionante tobogã aquático de 67 pés embutido nas rochas, e relaxar em spas de hidromassagem quentes e frios.</p>
+
 <p>As crianças podem se divertir muito explorando a área de recreação recém-inaugurada. Ali perto, o Geyser Point Bar & Grill oferece bebidas e lanches para você saborear em uma mesa no pátio ou em uma espreguiçadeira, perto da piscina.</p>
 
 <h2>Boulder Ridge Cove Pool</h2>
+
 <p>Aprecie o charme tranquilo deste verdadeiro oásis aquático dentro das Boulder Ridge Villas no Disney's Wilderness Lodge. Aqui, você pode relaxar no spa de hidromassagem, deitar-se na piscina com ponto de entrada de profundidade zero ou conseguir um lugar em uma das 6 áreas de assentos sob a sombra, por ordem de chegada.</p>
 
-<h2>Saiba antes de ir.</h2>
+<h3>Saiba antes de ir.</h3>
+
 <p>Os horários e a disponibilidade de salva-vidas podem variar de acordo com a piscina e estão sujeitos a alterações.</p>
+
 <p>Há toalhas disponíveis como cortesia em ambas as piscinas.</p>
 
 <h1>Cinema sob as Estrelas</h1>
-<img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/things-to-do/more/sports-and-recreation-centers/movies-under-the-stars/movies-under-the-stars-00.jpg?1583970823776">
+
+<p><img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/things-to-do/more/sports-and-recreation-centers/movies-under-the-stars/movies-under-the-stars-00.jpg?1583970823776"></p>
+
 <p>Aconchegue-se para assistir a um de seus filmes Disney favoritos, exibido ao ar livre no frescor de um fim de tarde.</p>
 
-<h1>Veja as Estrelas, sob as estrelas!</h1>
+<h2>Veja as Estrelas, sob as estrelas!</h2>
+
 <p>Sessões gratuitas de cinema estão disponíveis para os hóspedes nos hotéis Walt Disney World Resort.</p>
+
 <p>Seja sentado à beira da piscina ou rodeado por bosques da Flórida, desfrute de uma noite relaxante de entretenimento que garante diversão para toda a família!</p>
+
 <p>Para horários de filmes, verifique na Recepção do seu hotel do Walt Disney World Resort, ou ligue
-    (11) 4700-2835. Os filmes e entretenimento estão sujeitos a cancelamento ou alteração sem aviso prévio.</p>
+(11) 4700-2835. Os filmes e entretenimento estão sujeitos a cancelamento ou alteração sem aviso prévio.</p>
      
     <hr>
+
     <h1>Comodidades</h1>
+
     <p><img src="https://i.ytimg.com/vi/SOQP9eS1jjY/maxresdefault.jpg"></p>
+
     <h1>Electrical Water Pageant</h1>
+
     <p>Adicione toques de encanto e brilho às noites da sua estadia, com o deslumbrante desfile aquático noturno!</p>
+
     <p>Brilhando nas margens do lago deste Resort, o Electrical Water Pageant é uma oportunidade fascinante para Visitantes de todas as idades apreciarem as imagens e os sons, enquanto criaturas marinhas reluzentes, épicas e grandiosas, atravessam o lago no ritmo das canções eletrônicas da Disney que você conhece e adora.</p>
+
     <p>O melhor de tudo é você pode apreciar o show do começo ao fim do conforto dessa área mágica do Resort que oferece uma bela vista do desfile!</p>
 
     <p><img src="https://desvendandoorlando.files.wordpress.com/2019/07/transporte-1.jpg?w=780"></p>
+
     <h1>Transporte aquático na Disney</h1>
+
     <p>Passeie pelo Bay Lake e pela Seven Seas Lagoon em um táxi aquático gratuito.</p>
+
     <p>Uma lancha oferece transporte direto ao Magic Kingdom Park, enquanto outra segue para o Disney's Fort Wilderness Resort & Campground e o Disney's Contemporary Resort.</p>
 
     <p><img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/900/360/75/dam/disney-world/minnie-van/minnie-van-epcot-5x2.jpg?1599162619345"></p>
+
     <h1>Serviço Disney Minnie Van™ Connected by Lyft</h1>
+
     <p>Descubra uma maneira fantástica de andar por aí! Chegar em locais selecionados do Walt Disney World Resort, ou se deslocar de e para o Aeroporto Internacional de Orlando, é muito fácil quando nossos veículos privativos levam você com o encantador estilo Disney. (Custos adicionais são aplicáveis.)</p>
 
     <p><img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/630/354/90/media/disneyparksjapan-prod/disneyparksjapan_v0001/1/media/wdw/spas/sturdy-branches-health-club-00.jpg"></p>
+
     <h1>Sturdy Branches Health Club</h1>
+
     <p>Relaxe o corpo e a mente nesta academia de ginástica de serviço completo e sauna.</p>
     
     <hr>
-
-
-
-</body>
-</html>
