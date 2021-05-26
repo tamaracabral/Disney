@@ -7,6 +7,11 @@
     <title>Walt Disney Resort</title>
 </head>
 <body>
+    <p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Walt_Disney_World_Logo_2018.svg/800px-Walt_Disney_World_Logo_2018.svg.png"/></p>
+         
+        <hr/>
+
     <h1>Boulder Ridge Villas at Disney's Wilderness Lodge</h1>
     <p><img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/900/360/75/dam/disney-world/resorts/boulder-ridge-villas-at-wilderness-lodge/boulder-ridge-landscape-900x360.jpg?1621019850741"></p>
     <p>De forma semelhante aos hotéis de beira de estrada do oeste norte-americano da década de 1860, o Boulder Ridge Villas oferece todo o conforto da sua casa em meio à beleza rústica do Disney’s Wilderness Lodge. Saboreie a tradicional culinária do Noroeste do Pacífico, explore trilhas em prados verdejantes e desfrute da encantadora Copper Creek Springs Pool. Um tranquilo passeio de barco leva do Magic Kingdom Park a esse Hotel Resort, que celebra a filosofia dos artesãos tradicionais e a vida ao ar livre.</p>
@@ -24,4 +29,53 @@
     <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3006.6958801840256!2d-81.57521944978218!3d28.409146582420625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s901%20Timberline%20Drive%20Lake%20Buena%20Vista%2C%20Fl%C3%B3rida%208426-32830!5e1!3m2!1spt-BR!2sbr!4v1621981653957!5m2!1spt-BR!2sbr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     <h3>Endereço do Risort</h3>
     <p>901 Timberline Drive <br>
-    Lake Buena Vista, Flórida 8426-32830</p>
+    Lake Buena Vista, Flórida 8426-32830 <br>
+    (407) 824-3200</p>
+    
+    <h4>Categoria do Resort</h4>
+    <p>Resort Villa Deluxe</p>
+    <h4>Área do Resort</h4>
+    <p>Área de Resort do Magic Kingdom</p>
+
+    <hr>
+    <h1>Tarifas de quartos</h1>
+
+    <h2>Studio Categoria Deluxe</h2>
+    <p><img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/640/360/75/dam/wdpro-assets/gallery/resorts/villas-at-wilderness-lodge/rooms/non-accessible/xa/room-xa-g00.jpg?1564010609976"></p>
+
+        <p>Vista da piscina, do bosque, do pátio ou do Disney's Wilderness Lodge Resort Hotel</p>
+    <p>Acomoda até 5 adultos</p>
+    <ul>
+        <li>1 Cama queen</li>
+        <li>1 sofá-cama de casal</li>
+        <li>1 cama de solteiro</li>
+    </ul>
+    <p>Acomodações espaçosas que incluem uma cozinha compacta com frigobar e forno micro-ondas, varanda ou sacada</p>
+
+    <h3>Preço Diária</h3>
+    <p>A partir de $432.00 USD$432,00 USD <br>
+        Por noite, impostos da Flórida aplicáveis incluídos</p>
+
+    <h2>Villa de 1 quarto</h2>
+        <img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/640/360/75/dam/wdpro-assets/gallery/resorts/villas-at-wilderness-lodge/rooms/non-accessible/xb/room-xb-g00.jpg?1564010609979">
+
+        <p>Acomoda até 8 adultos</p>
+        <p>Vista da piscina, do bosque, do pátio ou do Disney's Wilderness Lodge Resort Hotel</p>
+        <ul>
+            <li>1 cama king</li>
+            <li>2 camas queen</li>
+            <li>1 sofá-cama queen</li>
+        </ul>
+
+    <p>Ótimas para famílias grandes, as acomodações em Villas incluem uma cozinha completa, 2 banheiros completos, lavadora, secadora</p>
+
+    <h3>Preço Diária</h3>
+    <p>A partir de $739.13 USD $739,13 USD <br>
+        Por noite, impostos da Flórida aplicáveis incluídos</p>
+<hr>
+    
+    <h1>Restaurantes</h1>
+
+
+</body>
+</html>
