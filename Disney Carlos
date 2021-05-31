@@ -10,6 +10,11 @@
         <hr/>
 
     <h1>Boulder Ridge Villas at Disney's Wilderness Lodge</h1>
+    <a href="#">Visão Geral</a>
+    <a href="#">Tarifa dos Quartos</a>
+    <a href="#">Restaurantes</a>
+    <a href="#">Recreação</a>
+    <a href="#">Comodidades</a>
 
     <p><img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/900/360/75/dam/disney-world/resorts/boulder-ridge-villas-at-wilderness-lodge/boulder-ridge-landscape-900x360.jpg?1621019850741"></p>
     
@@ -42,6 +47,24 @@
     
     <h4>Categoria do Resort</h4>
     <p>Resort Villa Deluxe</p>
+
+    <h4>Opções de Transporte</h4>
+    <ul>
+        <li>Ônibus</li>
+        <p>Serviço Disney's Magical Express
+            Aproveite o transporte gratuito de ida e volta do Aeroporto Internacional de Orlando. É necessário fazer reservas com antecedência.</p>
+        <li>Carro</li>
+        <p>Média de preço por diária 
+            R$ 190,41
+            Modelos de carros mais alugados no Aeroporto de Orlando, MCO, Estados Unidos
+            Toyota RAV4 (SUV)
+            Dodge Grand Caravan (Minivan)
+            Ford Edge (SUV)
+            Locadoras mais bem avaliadas
+            National
+            Alamo
+            Enterprise</p>
+    </ul>
     
     <h4>Área do Resort</h4>
     <p>Área de Resort do Magic Kingdom</p>
@@ -113,7 +136,7 @@
     
     <p>Carne bovina tenra, legumes em conserva, spaetzle, cogumelos, queijo de leite de vaca envelhecido</p>
 
-    <strong><h3>Preço</h3></strong>
+    <strong><h3>Valor Médio</h3></strong>
     
     <p>Pratos principais The Core of the Story (opção de um/Adulto $60.00 USD)</p>
 
@@ -229,3 +252,8 @@
     <p>Relaxe o corpo e a mente nesta academia de ginástica de serviço completo e sauna.</p>
     
     <hr>
+
+
+
+</body>
+</html>
