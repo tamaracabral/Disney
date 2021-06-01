@@ -9,12 +9,17 @@
          
         <hr/>
 
-    <h1>Boulder Ridge Villas at Disney's Wilderness Lodge</h1>
-    <a href="#">Visão Geral</a>
-    <a href="#">Tarifa dos Quartos</a>
-    <a href="#">Restaurantes</a>
-    <a href="#">Recreação</a>
-    <a href="#">Comodidades</a>
+        <p>
+            <a href="#visao">Visão Geral</a>
+            <a href="#quartos">Tarifa dos Quartos</a>
+            <a href="#restaurante">Restaurantes</a>
+            <a href="#recreacao">Recreação</a>
+            <a href="#comodidades">Comodidades</a>
+        </p>
+
+    <h1> <a name="visao">Boulder Ridge Villas at Disney's Wilderness Lodge</a></h1>
+    
+    
 
     <p><img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/900/360/75/dam/disney-world/resorts/boulder-ridge-villas-at-wilderness-lodge/boulder-ridge-landscape-900x360.jpg?1621019850741"></p>
     
@@ -50,10 +55,10 @@
 
     <h4>Opções de Transporte</h4>
     <ul>
-        <li>Ônibus</li>
+        <li><strong>Ônibus</strong></li>
         <p>Serviço Disney's Magical Express
             Aproveite o transporte gratuito de ida e volta do Aeroporto Internacional de Orlando. É necessário fazer reservas com antecedência.</p>
-        <li>Carro</li>
+        <li><strong>Carro</strong></li>
         <p>Média de preço por diária 
             R$ 190,41
             Modelos de carros mais alugados no Aeroporto de Orlando, MCO, Estados Unidos
@@ -71,7 +76,7 @@
 
     <hr>
     
-    <h1>Tarifas de quartos</h1>
+    <h1><a name="quartos">Tarifas de quartos</a></h1>
 
     <h2>Studio Categoria Deluxe</h2>
     
@@ -116,7 +121,7 @@
         Por noite, impostos da Flórida aplicáveis incluídos</p>
 <hr>
     
-    <h1>Restaurantes</h1>
+    <h1><a name="restaurante">Restaurantes</a></h1>
     
     <p><img src="https://www.mousesteps.com/images/stories/dining/2018%20Dining/Artist%20Point%20Storybook%20Dining/DSC_0812.jpg"></p>
 
@@ -136,7 +141,7 @@
     
     <p>Carne bovina tenra, legumes em conserva, spaetzle, cogumelos, queijo de leite de vaca envelhecido</p>
 
-    <strong><h3>Valor Médio</h3></strong>
+    <strong><h3>Preço</h3></strong>
     
     <p>Pratos principais The Core of the Story (opção de um/Adulto $60.00 USD)</p>
 
@@ -180,7 +185,7 @@
 
 <hr>
 
-<h1>Recreação</h1>
+<h1><a name="recreacao">Recreação</a></h1>
 
 <h1>Piscinas no Disney's Wilderness Lodge</h1>
 
@@ -219,7 +224,7 @@
      
     <hr>
 
-    <h1>Comodidades</h1>
+    <h1><a name="comodidades">Comodidades</a></h1>
 
     <p><img src="https://i.ytimg.com/vi/SOQP9eS1jjY/maxresdefault.jpg"></p>
 
@@ -252,6 +257,8 @@
     <p>Relaxe o corpo e a mente nesta academia de ginástica de serviço completo e sauna.</p>
     
     <hr>
+
+ 
 
 
 
